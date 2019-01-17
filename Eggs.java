@@ -17,3 +17,12 @@ public class Eggs {
         return egg;
     }
 }
+
+
+Output:
+How many eggs are there? 50
+50 eggs is 4 full dozen (with 2 eggs remaining)
+
+if the number is below 50:
+How many eggs are there? 36
+36 eggs is 3 full dozen (with 0 eggs remaining)
