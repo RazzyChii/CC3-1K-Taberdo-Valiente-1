@@ -126,3 +126,4 @@ Net Weekly Salary:	120.00
 Classification:		
 
 //and if the Weekly Gross is 0, it will be still zero with no classification
+//chances of getting a classification A, B, or C would be nearly impossible cause the user will get an D, E, or F classification only
